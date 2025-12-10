@@ -1,0 +1,25 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "\"# task-management\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meir123piskerov/task-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/meir123piskerov/task-management/issues"
+  },
+  "homepage": "https://github.com/meir123piskerov/task-management#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1",
+    "nanoid": "^5.1.6"
+  }
+}

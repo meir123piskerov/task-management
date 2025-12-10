@@ -1,5 +1,5 @@
-export default function arrangeTask(id, details) {
-  for (let i = 0; i < listTask.length; i++) {
+export default function arrangeTask(id, details, list) {
+  for (let i = 0; i < list.length; i++) {
     if (i[id] === id) {
       i.details = details;
     } else {
